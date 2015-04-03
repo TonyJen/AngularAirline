@@ -4,3 +4,9 @@ c:\users\user\documents\visual studio 2013\Projects\Airlines\Airlines\bin\Airlin
 c:\users\user\documents\visual studio 2013\Projects\Airlines\Airlines\obj\Debug\Airlines.csprojResolveAssemblyReference.cache
 c:\users\user\documents\visual studio 2013\Projects\Airlines\Airlines\obj\Debug\Airlines.dll
 c:\users\user\documents\visual studio 2013\Projects\Airlines\Airlines\obj\Debug\Airlines.pdb
+C:\Users\User\Documents\GitHub\AngularAirline\Airlines\bin\Airlines.dll.config
+C:\Users\User\Documents\GitHub\AngularAirline\Airlines\bin\Airlines.dll
+C:\Users\User\Documents\GitHub\AngularAirline\Airlines\bin\Airlines.pdb
+C:\Users\User\Documents\GitHub\AngularAirline\Airlines\obj\Debug\Airlines.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\AngularAirline\Airlines\obj\Debug\Airlines.dll
+C:\Users\User\Documents\GitHub\AngularAirline\Airlines\obj\Debug\Airlines.pdb
