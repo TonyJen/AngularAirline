@@ -10,7 +10,8 @@
                 totalDuration: 2, 
                 price: 500,
                 date: "12/1/2014",
-                cities: ["ORD", "LAS"]
+                cities: ["ORD", "LAS"],
+                approved:false
             },
             {
                 airline:"United", 
@@ -20,7 +21,8 @@
                 totalDuration: 2, 
                 price: 500,
                 date: "12/1/2014",
-                cities: ["SFO", "LAS"]
+                cities: ["SFO", "LAS"],
+                approved:false
             }
         ];
     };
