@@ -1,5 +1,12 @@
 ﻿(function (app) {
     var flightsController = function ($scope) {
+        $scope.selectFlight = function (flight) {
+            for (var i = 0; i <= $scope.flights.length; i++) {
+                $scope.flights[i].approved = false;
+            }
+            flight.approved = !flight.approved;          
+        }
+
         $scope.flights= 
         [ 
             {

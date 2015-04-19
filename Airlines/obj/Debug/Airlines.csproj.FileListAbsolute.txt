@@ -9,3 +9,4 @@ C:\Users\User\Documents\GitHub\AngularAirline\Airlines\bin\Airlines.pdb
 C:\Users\User\Documents\GitHub\AngularAirline\Airlines\obj\Debug\Airlines.csprojResolveAssemblyReference.cache
 C:\Users\User\Documents\GitHub\AngularAirline\Airlines\obj\Debug\Airlines.dll
 C:\Users\User\Documents\GitHub\AngularAirline\Airlines\obj\Debug\Airlines.pdb
+C:\Users\User\Documents\GitHub\AngularAirline\Airlines\bin\Airlines.dll.config
