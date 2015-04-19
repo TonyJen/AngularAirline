@@ -1,0 +1,6 @@
+C:\Users\User\Documents\GitHub\AngularAirline\TodoList\bin\TodoList.dll.config
+C:\Users\User\Documents\GitHub\AngularAirline\TodoList\bin\TodoList.dll
+C:\Users\User\Documents\GitHub\AngularAirline\TodoList\bin\TodoList.pdb
+C:\Users\User\Documents\GitHub\AngularAirline\TodoList\obj\Debug\TodoList.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\AngularAirline\TodoList\obj\Debug\TodoList.dll
+C:\Users\User\Documents\GitHub\AngularAirline\TodoList\obj\Debug\TodoList.pdb
