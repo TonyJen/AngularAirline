@@ -1,9 +1,14 @@
 ﻿(function (app) {
+
     var flightsController = function ($scope) {
+
         $scope.selectFlight = function (flight) {
-            for (var i = 0; i <= $scope.flights.length; i++) {
+            for (var i = 0; i < $scope.flights.length; i++) {
+
+                console.log($scope.flights[i]);
                 $scope.flights[i].approved = false;
             }
+            console.log(flight);
             flight.approved = !flight.approved;          
         }
 
@@ -18,7 +23,7 @@
                 price: 500,
                 date: "12/1/2014",
                 cities: ["ORD", "LAS"],
-                approved:false
+                approved: false
             },
             {
                 airline:"United", 
@@ -29,7 +34,7 @@
                 price: 500,
                 date: "12/1/2014",
                 cities: ["SFO", "LAS"],
-                approved:false
+                approved: false
             }
         ];
     };
