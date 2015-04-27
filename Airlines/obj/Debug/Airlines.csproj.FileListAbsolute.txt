@@ -10,3 +10,11 @@ C:\Users\User\Documents\GitHub\AngularAirline\Airlines\obj\Debug\Airlines.csproj
 C:\Users\User\Documents\GitHub\AngularAirline\Airlines\obj\Debug\Airlines.dll
 C:\Users\User\Documents\GitHub\AngularAirline\Airlines\obj\Debug\Airlines.pdb
 C:\Users\User\Documents\GitHub\AngularAirline\Airlines\bin\Airlines.dll.config
+C:\Users\User\Documents\GitHub\AngularAirline\Airlines\bin\Newtonsoft.Json.dll
+C:\Users\User\Documents\GitHub\AngularAirline\Airlines\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Documents\GitHub\AngularAirline\Airlines\bin\System.Web.Http.dll
+C:\Users\User\Documents\GitHub\AngularAirline\Airlines\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Documents\GitHub\AngularAirline\Airlines\bin\Newtonsoft.Json.xml
+C:\Users\User\Documents\GitHub\AngularAirline\Airlines\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Documents\GitHub\AngularAirline\Airlines\bin\System.Web.Http.xml
+C:\Users\User\Documents\GitHub\AngularAirline\Airlines\bin\System.Web.Http.WebHost.xml
