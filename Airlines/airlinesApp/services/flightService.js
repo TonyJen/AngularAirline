@@ -1,8 +1,7 @@
-﻿(function () {
-    var flightService = function () {
-        var flightFactory = {};
-        flightFactory.getFlights = function () {
-           return [{
+/// <reference path="flightService.js" />
+(function (app) {
+    var testData =  [{
+                       id : 1,
                        airline: "United",
                        flightNumber: 207,
                        startTime: "13:00",
@@ -14,6 +13,7 @@
                        approved: false
                    },
                    {
+                       id: 2,
                        airline: "United",
                        flightNumber: 207,
                        startTime: "13:00",
@@ -24,8 +24,24 @@
                        cities: ["SFO", "LAS"],
                        approved: false
                    }
-               ];
-          }
+    ];
+               
+    var flightService = function () {
+        var flightFactory = {};
+        
+        flightFactory.getFlights = function(){
+            return testData;
+        };
+        
+        flightFactory.selectFlight = function (id) {
+            //
+            // $http.put("/flights/select/3", id)
+            //
+            return true;
+        };
+        
+        return flightFactory;
     };
     app.factory("flightService", flightService);
+    
 }(angular.module("airlineApp")));

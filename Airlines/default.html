@@ -8,6 +8,11 @@
     <body ng-app="airlineApp">
         <div class="container" ng-controller="flightsController">
             <h1>Airlines!</h1>
+            <div> 
+                <div class = "alert alert-success" ng-show="status">
+                    {{status}}
+                </div>
+            </div>
             <div class="row">
                 <div class="col-md-6" ng-repeat="flight in flights">
                     <div class =" flightCard">
@@ -26,6 +31,9 @@
                         </div>
                         <hr />
                         <div>
+                            <span>Date: {{flight.date}}</span>
+                        </div>
+                        <div>
                             <span>Start Time: {{flight.startTime}}</span>
                             <span>End Time: {{flight.endTime}}</span>
                             <ul class="breadcrumb">
@@ -42,5 +50,6 @@
         <script src="Scripts/angular.js"></script>
         <script src="airlinesApp/airlineApp.js"></script>
         <script src="airlinesApp/controllers/flightsController.js"></script>
+        <script src="airlinesApp/services/flightService.js"></script>
     </body>
 </html>
