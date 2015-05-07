@@ -19,6 +19,6 @@
         
         return flightFactory;
     };
-    app.factory("flightService",["$http"], flightService);
+    app.factory("flightService",["$http", flightService]);
     
 }(angular.module("airlineApp")));

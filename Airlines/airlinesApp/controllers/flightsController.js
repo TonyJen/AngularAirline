@@ -6,8 +6,8 @@
             alert("error!!");
         };
 
-        var onFlights = function (flights) {
-            $scope.flights = flights;
+        var onFlights = function (response) {
+            $scope.flights = response.data;
         };
 
         var init = function () {
